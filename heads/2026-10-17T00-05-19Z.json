@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-17T00:05:19Z",
+  "streams": [
+    {
+      "streamId": "commitments",
+      "headSeq": 605,
+      "headHash": "b70cc7d8ed5df81b84eb0acec5a465bb59ad199a983a16c56f01c6082c784751"
+    },
+    {
+      "streamId": "research",
+      "headSeq": 1,
+      "headHash": "fd25ac8f4125a182048aa5af64291f655f30de8c9f3917a133e106fd2d5cd659"
+    }
+  ]
+}
